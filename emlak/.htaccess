@@ -1,0 +1,6 @@
+Options +FollowSymlinks
+Options -Indexes
+Options -MultiViews
+
+ServerSignature Off
+
